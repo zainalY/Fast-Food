@@ -1,0 +1,33 @@
+ [{
+         "name": "Kentang Goreng",
+         "description": "Kentang goreng merupakan makanan ringan yang sudah ada sejak ratusan tahun lalu. Tapi, makanan satu ini tetap dianggap buruk bila orang terlalu sering mengonsumsinya.",
+         "Rating": "5.16",
+         "categorie": "Makanan cepat saji",
+         "place": "KFC",
+         "img": "https://i.pinimg.com/originals/14/74/7c/14747cd53842ac588c21abd73d02e448.jpg"
+     },
+     {
+         "name": "Hot Dog",
+         "description": "Roti berlapiskan daging sapi berukuran panjang dicampur dengan sedikit mayones, saus sambal, dan saus tomat ini pun memiliki kandungan yang tidak menyehatkan untuk tubuh.",
+         "Rating": "8.54",
+         "categorie": "Makanan cepat saji",
+         "place": "KFC",
+         "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+     },
+     {
+         "name": "Donat",
+         "description": "Donat polos tidak mengandung banyak kalori, dan tidak membahayakan tubuh Anda. Tapi, sekarang ini donat telah memiliki banyak varian rasa, dan mengandung banyak gula.",
+         "Rating": "5.16",
+         "categorie": "Makanan cepat saji",
+         "place": "Pizza Hut",
+         "img": "https://i.pinimg.com/originals/1c/68/9a/1c689a5ef7d37f6522bb02401a7cf8dc.jpg"
+     },
+     {
+         "name": "Hot Dog",
+         "description": "Bacon terkandung natrium yang tinggi. Tiga potongan daging saja sudah sangat berbahaya, karena mengandung sodium sangat tinggi.",
+         "categorie": "Makanan cepat saji",
+         "place": "McDonalds",
+         "img": "https://i.pinimg.com/originals/bf/65/fb/bf65fb62548c39401c94487b0db94486.jpg"
+     }
+
+ ]
